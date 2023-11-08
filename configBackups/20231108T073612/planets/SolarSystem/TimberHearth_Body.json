@@ -1,0 +1,718 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 333.2082,
+					"y": 194.937256,
+					"z": 337.980225
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 29.2920685,
+					"y": -52.47058,
+					"z": 186.358841
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 340.3626,
+					"y": 187.542,
+					"z": 330.652
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 30.07145,
+					"y": -55.3258057,
+					"z": 194.198257
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 332.579071,
+					"y": 181.606339,
+					"z": 321.1209
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 30.57428,
+					"y": -61.8765869,
+					"z": 200.764587
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 339.2454,
+					"y": 188.42717,
+					"z": 326.485229
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 31.7510147,
+					"y": -63.9088135,
+					"z": 206.7684
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 336.59848,
+					"y": 179.62851,
+					"z": 326.5731
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 32.7423859,
+					"y": -67.6270752,
+					"z": 211.900848
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 330.08783,
+					"y": 177.990784,
+					"z": 323.25647
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 38.5440445,
+					"y": -78.614624,
+					"z": 215.646255
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 337.4557,
+					"y": 187.366776,
+					"z": 308.7026
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 40.0308647,
+					"y": -82.08362,
+					"z": 224.610474
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 346.84082,
+					"y": 153.758545,
+					"z": 29.5582714
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 17.8769112,
+					"y": -85.041626,
+					"z": 211.944473
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 356.427826,
+					"y": 213.272522,
+					"z": 318.847839
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 42.1234474,
+					"y": -85.03577,
+					"z": 229.303543
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 333.2919,
+					"y": 180.832245,
+					"z": 208.587234
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -7.2787,
+					"y": -109.27063,
+					"z": 203.8434
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 338.3085,
+					"y": 171.6186,
+					"z": 218.0565
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -7.25756645,
+					"y": -106.134155,
+					"z": 197.562683
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 341.973267,
+					"y": 170.144348,
+					"z": 231.634018
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -9.577261,
+					"y": -106.639038,
+					"z": 192.930252
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 358.702332,
+					"y": 163.34082,
+					"z": 245.741333
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -9.8833065,
+					"y": -103.274536,
+					"z": 186.98674
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 353.6512,
+					"y": 227.354691,
+					"z": 294.316376
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -9.342756,
+					"y": -106.686646,
+					"z": 182.33783
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 329.177246,
+					"y": 200.306686,
+					"z": 203.834839
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -16.1639671,
+					"y": -99.83264,
+					"z": 182.509
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 1.2203064,
+					"y": 231.367981,
+					"z": 212.4561
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -8.882795,
+					"y": -106.734253,
+					"z": 194.405258
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 3.249481,
+					"y": 163.284485,
+					"z": 74.92902
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -38.7891541,
+					"y": 21.8564453,
+					"z": 195.412155
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 9.714347,
+					"y": 166.790237,
+					"z": 65.34275
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -40.8564873,
+					"y": 22.6853027,
+					"z": 203.143646
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 284.4973,
+					"y": 3.31983566,
+					"z": 257.9984
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -43.8952,
+					"y": 24.6094971,
+					"z": 211.7939
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 359.747467,
+					"y": 130.977631,
+					"z": 170.155029
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -31.350811,
+					"y": 11.965332,
+					"z": 191.181213
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 347.63385,
+					"y": 147.788834,
+					"z": 307.4298
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -71.2239761,
+					"y": -21.7875977,
+					"z": 218.061539
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 353.6556,
+					"y": 162.956635,
+					"z": 310.407623
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -74.4462,
+					"y": -25.8900146,
+					"z": 224.375473
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 344.899017,
+					"y": 161.969681,
+					"z": 346.503479
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -80.21955,
+					"y": -31.2484131,
+					"z": 230.5648
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 15.6586952,
+					"y": 252.862717,
+					"z": 264.925964
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -79.65346,
+					"y": -34.8157959,
+					"z": 232.83847
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 5.886549,
+					"y": 96.52899,
+					"z": 29.7468987
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -92.88187,
+					"y": -39.6136475,
+					"z": 231.428986
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 2.58896518,
+					"y": 139.53183,
+					"z": 42.25218
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -95.69045,
+					"y": -40.7188721,
+					"z": 234.610184
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 1.17165029,
+					"y": 211.038956,
+					"z": 150.733856
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 15.0994759,
+					"y": -38.1973877,
+					"z": 190.868683
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 29.80733,
+					"y": 214.180145,
+					"z": 180.032318
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -39.8172646,
+					"y": 84.25574,
+					"z": 213.234955
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 23.7310677,
+					"y": 164.236969,
+					"z": 182.638535
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -42.0063477,
+					"y": 87.4437256,
+					"z": 220.816025
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 22.984272,
+					"y": 167.367233,
+					"z": 204.684921
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -25.7006779,
+					"y": 82.8192139,
+					"z": 225.147141
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 20.8840256,
+					"y": 172.600861,
+					"z": 202.09
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -26.3008289,
+					"y": 84.9154053,
+					"z": 230.640213
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 354.0099,
+					"y": 178.857849,
+					"z": 311.48645
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 16.3664665,
+					"y": 2.91784668,
+					"z": 241.6881
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 356.831757,
+					"y": 186.410141,
+					"z": 283.164
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 17.09634,
+					"y": 2.276001,
+					"z": 251.511536
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 339.150574,
+					"y": 260.386017,
+					"z": 162.136215
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -12.810811,
+					"y": -102.305786,
+					"z": 183.639343
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 28.2282238,
+					"y": 111.819359,
+					"z": 25.7242241
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -4.830825,
+					"y": -41.0970459,
+					"z": 198.041687
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 347.813782,
+					"y": 168.622162,
+					"z": 68.52431
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -6.14229441,
+					"y": -42.62561,
+					"z": 203.714981
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 356.012146,
+					"y": 165.731354,
+					"z": 49.75039
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -7.494932,
+					"y": -44.28357,
+					"z": 211.652466
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 308.0798,
+					"y": 264.399353,
+					"z": 6.249973
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -8.431799,
+					"y": -44.4657,
+					"z": 217.059937
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 324.185822,
+					"y": 182.2228,
+					"z": 69.35536
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 4.638549,
+					"y": -36.76184,
+					"z": 195.336945
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 349.351074,
+					"y": 156.219208,
+					"z": 78.4793
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -2.12623549,
+					"y": -43.7838135,
+					"z": 191.444763
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 44.480835,
+					"y": 176.406921,
+					"z": 342.3775
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 36.39077,
+					"y": -25.1732178,
+					"z": 200.141541
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 34.8405075,
+					"y": 348.230774,
+					"z": 108.682549
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 38.69361,
+					"y": -19.8178711,
+					"z": 199.0548
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 5.235546,
+					"y": 136.396744,
+					"z": 11.0473118
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 30.3442612,
+					"y": -24.5827637,
+					"z": 202.2943
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 2.293388,
+					"y": 189.776047,
+					"z": 316.056641
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 34.98176,
+					"y": -23.7772217,
+					"z": 209.66246
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 337.724,
+					"y": 237.449081,
+					"z": 352.1946
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 5.314383,
+					"y": -30.1048584,
+					"z": 190.548111
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 340.286774,
+					"y": 260.906,
+					"z": 70.41986
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 32.2572174,
+					"y": -25.9914551,
+					"z": 199.224213
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 16.27121,
+					"y": 215.058487,
+					"z": 334.4859
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 38.79419,
+					"y": -21.7108154,
+					"z": 213.217316
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 68.3942,
+					"y": 217.375992,
+					"z": 311.827179
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 40.6051,
+					"y": -18.9102783,
+					"z": 215.103729
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 23.61656,
+					"y": 261.028,
+					"z": 262.887939
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 45.048214,
+					"y": -19.5709229,
+					"z": 217.2922
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 22.2214775,
+					"y": 191.918686,
+					"z": 253.956375
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 50.6991539,
+					"y": -20.8876953,
+					"z": 219.907135
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

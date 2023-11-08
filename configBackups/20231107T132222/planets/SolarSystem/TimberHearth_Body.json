@@ -1,0 +1,72 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 333.2082,
+					"y": 194.937271,
+					"z": 337.980255
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 29.291893,
+					"y": -52.4704247,
+					"z": 186.35907
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 340.3626,
+					"y": 187.542,
+					"z": 330.652
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 30.071373,
+					"y": -55.325798,
+					"z": 194.198242
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 332.579163,
+					"y": 181.6064,
+					"z": 321.120972
+				},
+				"position": {
+					"x": 30.5740128,
+					"y": -61.8765335,
+					"z": 200.7642
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 339.2454,
+					"y": 188.42717,
+					"z": 326.485352
+				},
+				"position": {
+					"x": 31.750679,
+					"y": -63.90873,
+					"z": 206.768143
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

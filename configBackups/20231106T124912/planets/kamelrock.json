@@ -1,0 +1,29 @@
+{
+	"name": "Kamel's Sponge",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "SolarSystem",
+	"Base": {
+		"groundSize": 50,
+		"surfaceSize": 51,
+		"surfaceGravity": 5,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 750,
+		"primaryBody": "TIMBER_HEARTH",
+		"isMoon": true,
+		"isTidallyLocked": true
+	},
+	"Atmosphere": {
+		"size": 55,
+		"fogTint": {
+			"r": 255,
+			"g": 0,
+			"b": 0,
+			"a": 255
+		},
+		"fogSize": 55,
+		"fogDensity": 2,
+		"hasRain": true
+	}
+}

@@ -1,0 +1,12 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+	<ID>KAMELROCK</ID>
+	<Entry>
+		<ID>KAMELROCK_ENTRY</ID>
+		<Name>Kamel's Sponge</Name>
+		<ExploreFact>
+			<ID>KAMELROCK_LANDING</ID>
+			<Text>This planet seems to be a kind of giant sponge with trees. The water levels are in a constant cycle of rising and falling.</Text>
+			<Text></Text>
+		</ExploreFact>
+	</Entry>
+</AstroObjectEntry>

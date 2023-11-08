@@ -1,0 +1,55 @@
+{
+	"name": "Kamel's Sponge",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "SolarSystem",
+	"Base": {
+		"groundSize": 50,
+		"surfaceSize": 51,
+		"surfaceGravity": 5,
+		"hasMapMarker": true
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/Bumpy_Seeker_hightmap.jpg",	
+		"textureMap" : "planets/assets/sponge_texmap.jpg",	
+		"minHeight" : 50,
+		"maxHeight" : 60,
+	},
+	"Orbit": {
+		"semiMajorAxis": 750,
+		"primaryBody": "TIMBER_HEARTH",
+		"isMoon": true,
+		"isTidallyLocked": true,
+		"argumentOfPeriapsis": 90,
+		"longitudeOfAscendingNode" : 180,
+		"siderealPeriod" : 78
+	},
+	"Atmosphere": {
+		"hasOxygen" : true,
+		"size": 55,
+		"fogTint": {
+			"r": 255,
+			"g": 0,
+			"b": 0,
+			"a": 255
+		},
+		"fogSize": 55,
+		"fogDensity": 2,
+		"hasRain": true
+	},
+	"Water": {
+		"curve": [{"time": 2, "value": 1.1}],
+		"size": 50,
+		"density": 15,
+		"buoyancy": 0.5,
+		"tint": {
+			"r": 255,
+			"g": 0,
+			"b": 0,
+			"a": 128
+		}
+	},
+	"Signal" : {
+		"Signals": [{ "Frequency": "Default", "Name": "Kamel's Sponge", "audioFilePath": "planets/Assets/sponge_signal.mp3", "SourceRadius": 75, "identificationRadius": 80}]
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Kamel's Sponge",
+	"Atmosphere": {
+		"fogDensity": 2.0,
+		"fogSize": 75.0,
+		"fogTint": {
+			"r": 255,
+			"a": 255
+		},
+		"hasOxygen": true,
+		"hasRain": true,
+		"size": 80.0
+	},
+	"Base": {
+		"gravityFallOff": "linear",
+		"groundSize": 50.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 3.0,
+		"surfaceSize": 51.0
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/sponge_texmap.png",
+		"maxHeight": 60.0,
+		"minHeight": 59.0,
+		"textureMap": "planets/assets/sponge_texmap.png"
+	},
+	"Orbit": {
+		"primaryBody": "TIMBER_HEARTH",
+		"isMoon": true,
+		"siderealPeriod": 78.0,
+		"isTidallyLocked": true,
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0,
+		"semiMajorAxis": 750.0,
+		"longitudeOfAscendingNode": 180.0,
+		"argumentOfPeriapsis": 90.0
+	},
+	"Props": {
+		"signals": [
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 80.0
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {},
+	"Water": {
+		"size": 50.0,
+		"density": 15.0,
+		"buoyancy": 0.5,
+		"tint": {
+			"r": 255,
+			"a": 128
+		},
+		"curve": [
+			{
+				"time": 2.0,
+				"value": 1.1
+			}
+		]
+	},
+	"ParticleFields": [
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		}
+	],
+	"Signal": {
+		"signals": [
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			}
+		]
+	}
+}

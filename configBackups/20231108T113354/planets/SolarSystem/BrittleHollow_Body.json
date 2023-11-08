@@ -1,0 +1,171 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "BrittleHollow",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_Treepot",
+				"rotation": {
+					"x": 39.5692558,
+					"y": 203.977448,
+					"z": 279.2063
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -238.0862,
+					"y": 32.71572,
+					"z": 67.68597
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_VaseThick",
+				"rotation": {
+					"x": 82.78229,
+					"y": 299.1845,
+					"z": 11.0158682
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -238.345657,
+					"y": 33.2112961,
+					"z": 66.6952057
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"rotation": {
+					"x": 43.27336,
+					"y": 204.801437,
+					"z": 279.75174
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -238.3492,
+					"y": 32.58181,
+					"z": 66.9334641
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"rotation": {
+					"x": 34.724968,
+					"y": 203.023514,
+					"z": 278.6297
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -238.4003,
+					"y": 31.9037247,
+					"z": 67.05051
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/Prefab_NOM_Whiteboard (1)",
+				"rotation": {
+					"x": 358.482727,
+					"y": 18.2715588,
+					"z": 82.91309
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -239.867172,
+					"y": 30.35569,
+					"z": 63.17271
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_NorthFragment/Interactables_NorthFragment/VisibleFrom_EscapePodCrashSite/Prefab_NOM_Lamp_EscapePodFlare",
+				"rotation": {
+					"x": 307.0562,
+					"y": 188.6096,
+					"z": 281.809845
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -239.324478,
+					"y": 26.9115829,
+					"z": 66.21415
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
+				"rotation": {
+					"x": 351.935577,
+					"y": 19.0920162,
+					"z": 82.84453
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -238.603424,
+					"y": 32.731102,
+					"z": 66.09674
+				}
+			}
+		],
+		"translatorText": [
+			{
+				"arcInfo": [
+					{
+						"type": "adult"
+					},
+					{
+						"type": "adult"
+					},
+					{
+						"type": "adult"
+					},
+					{
+						"type": "adult"
+					},
+					{
+						"type": "adult"
+					},
+					{
+						"type": "adult"
+					}
+				],
+				"seed": 12,
+				"normal": {
+					"x": -0.9433503,
+					"y": 0.1233297,
+					"z": 0.3080259
+				},
+				"type": "scroll",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/Brittlehollow_Digging_Debate_Scroll.xml",
+				"alignRadial": true,
+				"position": {
+					"x": -239.2338,
+					"y": 33.2153,
+					"z": 66.5267
+				}
+			},
+			{
+				"type": "recorder",
+				"location": "unspecified",
+				"xmlFile": "planets/Text/Brittlehollow_Landing_Log_Recording.xml",
+				"rotation": {
+					"x": 47.0399,
+					"y": 23.9343,
+					"z": 104.6367
+				},
+				"alignRadial": true,
+				"position": {
+					"x": -238.9049,
+					"y": 32.7389,
+					"z": 67.8709
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

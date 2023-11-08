@@ -1,0 +1,1036 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Kamel's Sponge",
+	"Atmosphere": {
+		"fogDensity": 0.05,
+		"fogSize": 100.0,
+		"fogTint": {
+			"r": 255,
+			"a": 0
+		},
+		"hasOxygen": true,
+		"hasRain": true,
+		"size": 80.0
+	},
+	"Base": {
+		"gravityFallOff": "linear",
+		"groundSize": 40.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 8.0,
+		"surfaceSize": 50.0
+	},
+	"ShipLog" : {
+        "xmlFile": "planets/ShipLogs/kamelrock.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode" : {
+			"revealedSprite": "planets/ShipLogs/sprites/kamelrock_map_mode.png",
+			"scale": 0.6,
+			"manualPosition": {
+				"x": 582,
+				"y": 100
+			},
+			"manualNavigationPosition": {
+				"x": 2,
+				"y": 2
+			}
+		}
+	},
+	"Volumes": {
+		"revealVolumes": [
+			{"radius":55,"reveals":["KAMELROCK_LANDING"],"revealOn":"enter"}
+		]
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/sponge_heightmap.png",
+		"maxHeight": 50.0,
+		"minHeight": 42.0,
+		"textureMap": "planets/assets/sponge_texmap.png"
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"siderealPeriod": 78.0,
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0,
+		"semiMajorAxis": 9800.0,
+		"inclination": 8.0,
+		"longitudeOfAscendingNode": 20.0,
+		"eccentricity": 0.01,
+		"argumentOfPeriapsis": 50.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 61.7885971,
+					"y": 299.412933,
+					"z": 19.86821
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -40.1799126,
+					"y": 16.2839737,
+					"z": 5.31785727
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 12.9114866,
+					"y": 345.056061,
+					"z": 81.53023
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -42.6119423,
+					"y": 12.873848,
+					"z": -8.17094
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 339.7273,
+					"y": 339.9531,
+					"z": 44.75654
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -36.4488335,
+					"y": 24.6030731,
+					"z": -12.20931
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 12.1955595,
+					"y": 303.147766,
+					"z": 78.06184
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -31.7869911,
+					"y": 8.212452,
+					"z": -34.90932
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 320.921173,
+					"y": 184.7217,
+					"z": 290.402344
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -40.8872643,
+					"y": 11.6699142,
+					"z": 0.535284638
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 47.1620979,
+					"y": 238.4518,
+					"z": 298.0972
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -36.8221855,
+					"y": 13.4810715,
+					"z": 23.6563225
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 41.77758,
+					"y": 311.801117,
+					"z": 24.0994282
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -34.42061,
+					"y": 21.7836227,
+					"z": 26.8684673
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 319.3002,
+					"y": 49.56545,
+					"z": 60.51672
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -38.5616837,
+					"y": 17.7882614,
+					"z": 16.7620373
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 311.666565,
+					"y": 148.764084,
+					"z": 330.046265
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -43.2416954,
+					"y": 1.64471817,
+					"z": 21.2186375
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 282.096344,
+					"y": 103.037506,
+					"z": 30.27854
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -35.1875343,
+					"y": -0.3038292,
+					"z": 29.84975
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 356.680969,
+					"y": 209.488571,
+					"z": 263.035919
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -39.5490761,
+					"y": -13.9451218,
+					"z": 26.1550961
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 314.5021,
+					"y": 236.957825,
+					"z": 239.3348
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -28.2684135,
+					"y": -22.331398,
+					"z": 31.8409843
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 58.44085,
+					"y": 206.3823,
+					"z": 218.960861
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -21.8104267,
+					"y": -8.10215,
+					"z": 41.2287941
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 84.39213,
+					"y": 143.1866,
+					"z": 180.287582
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -29.4001789,
+					"y": -0.989116669,
+					"z": 39.77795
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 81.6871262,
+					"y": 243.9764,
+					"z": 271.106628
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -25.42725,
+					"y": 13.9072723,
+					"z": 38.5460434
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 354.476349,
+					"y": 236.145737,
+					"z": 293.87384
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -15.0812731,
+					"y": 10.1186371,
+					"z": 44.76245
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 332.652771,
+					"y": 262.3001,
+					"z": 281.978455
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -2.51116753,
+					"y": 13.5846634,
+					"z": 47.1744881
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 27.3050556,
+					"y": 16.82877,
+					"z": 34.2511177
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -9.046299,
+					"y": 28.49038,
+					"z": 38.2074127
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 33.288353,
+					"y": 13.778964,
+					"z": 21.9865875
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -16.2812462,
+					"y": 34.65673,
+					"z": 27.6060238
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 29.9454212,
+					"y": 295.2845,
+					"z": 351.74472
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -30.4591618,
+					"y": 35.203743,
+					"z": 7.36222744
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 335.193329,
+					"y": 343.393921,
+					"z": 80.73935
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -43.2606659,
+					"y": 14.6785278,
+					"z": -18.423975
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 295.71582,
+					"y": 299.9983,
+					"z": 121.111458
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -39.5025368,
+					"y": -5.306015,
+					"z": -28.6591034
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 329.633453,
+					"y": 279.405945,
+					"z": 97.4396439
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -29.7420273,
+					"y": -14.8521385,
+					"z": -35.3133469
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 297.37146,
+					"y": 191.576584,
+					"z": 216.791733
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -37.929493,
+					"y": -24.9608116,
+					"z": -18.4999981
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 331.5033,
+					"y": 187.132965,
+					"z": 239.1611
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -42.53107,
+					"y": -25.1057167,
+					"z": 0.2461954
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 333.811829,
+					"y": 165.792252,
+					"z": 293.487427
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -46.776413,
+					"y": -10.5483246,
+					"z": 6.4078784
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 297.439423,
+					"y": 136.107391,
+					"z": 108.16407
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 39.13004,
+					"y": -12.8603287,
+					"z": 23.54819
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 26.9107723,
+					"y": 281.3358,
+					"z": 251.694916
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 11.9812565,
+					"y": -27.8114662,
+					"z": 36.3791351
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 354.510925,
+					"y": 2.81060386,
+					"z": 177.952377
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -2.31007123,
+					"y": -41.5228233,
+					"z": 6.584961
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 1.700782,
+					"y": 39.54967,
+					"z": 170.818954
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -16.5374985,
+					"y": -39.6544724,
+					"z": -3.09719062
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 359.841125,
+					"y": 271.830383,
+					"z": 179.849869
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -0.119925857,
+					"y": -41.99969,
+					"z": -0.106277741
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 7.073655,
+					"y": 305.077454,
+					"z": 176.312134
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 4.63601255,
+					"y": -41.46428,
+					"z": -7.08378124
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 0.9237879,
+					"y": 219.607056,
+					"z": 169.807846
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 13.2993145,
+					"y": -40.5339355,
+					"z": 7.243762
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 352.9027,
+					"y": 337.7668,
+					"z": 196.590775
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 14.7983274,
+					"y": -40.284874,
+					"z": -10.7546024
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 343.773254,
+					"y": 251.059967,
+					"z": 161.169479
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -0.123963356,
+					"y": -38.2087364,
+					"z": -26.0660114
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 21.29619,
+					"y": 303.049622,
+					"z": 103.344055
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -21.8761978,
+					"y": -27.8164082,
+					"z": -33.0712357
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 6.550659,
+					"y": 285.063171,
+					"z": 116.402596
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 2.84427214,
+					"y": -30.9451714,
+					"z": -37.2712631
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 352.072449,
+					"y": 257.076141,
+					"z": 141.282532
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 13.7287931,
+					"y": -30.1690788,
+					"z": -33.89468
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 64.63343,
+					"y": 283.612518,
+					"z": 141.843765
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 26.7212715,
+					"y": -13.4025993,
+					"z": -37.5159149
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 78.38265,
+					"y": 288.362762,
+					"z": 146.1619
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 28.85487,
+					"y": 3.123829,
+					"z": -38.198143
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 49.27029,
+					"y": 49.6526756,
+					"z": 281.447968
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 20.7748432,
+					"y": 15.7064285,
+					"z": -40.77345
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 14.6083612,
+					"y": 95.277565,
+					"z": 315.772736
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 4.899867,
+					"y": 20.03254,
+					"z": -43.237896
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 27.2992973,
+					"y": 194.266663,
+					"z": 359.1364
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 1.25412917,
+					"y": 34.6237259,
+					"z": -30.7123337
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 17.4541683,
+					"y": 221.322952,
+					"z": 34.88491
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 18.1449947,
+					"y": 35.81498,
+					"z": -22.6225624
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 16.46837,
+					"y": 147.353409,
+					"z": 2.54310584
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 13.3763466,
+					"y": 38.3849869,
+					"z": -14.1257973
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_3/Crater_3_Sapling/QSapling/Tree_TH_Sapling",
+				"rotation": {
+					"x": 358.7645,
+					"y": 188.3355,
+					"z": 14.4628868
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 11.9021082,
+					"y": 40.22854,
+					"z": -4.245036
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 4.28058529,
+					"y": 102.34346,
+					"z": 351.010162
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -10.1279612,
+					"y": 39.5991745,
+					"z": -12.7021933
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 357.186829,
+					"y": 244.036743,
+					"z": 1.36902857
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 0.858670354,
+					"y": 42.0396042,
+					"z": -0.338165224
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 349.356232,
+					"y": 198.640213,
+					"z": 359.753235
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 1.44514787,
+					"y": 41.11199,
+					"z": 8.567728
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 344.720276,
+					"y": 163.015549,
+					"z": 3.88957453
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -3.60983229,
+					"y": 39.5334244,
+					"z": 15.2314081
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 347.0306,
+					"y": 74.4065857,
+					"z": 5.40514135
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -14.330368,
+					"y": 39.50486,
+					"z": 7.65084076
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 11.3318529,
+					"y": 245.92511,
+					"z": 241.3871
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 4.909453,
+					"y": -27.53004,
+					"z": 39.0762367
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 44.2286377,
+					"y": 312.752319,
+					"z": 287.4589
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 23.1717949,
+					"y": -8.76638,
+					"z": 40.44176
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/Prefab_NOM_Whiteboard (2)",
+				"removeChildren": [
+					"ArcSocket/Prefab_NOM_Scroll"
+				],
+				"rotation": {
+					"x": 9.755461,
+					"y": 67.30954,
+					"z": 179.3708
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -9.559618,
+					"y": -41.00401,
+					"z": -0.9081396
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
+				"rotation": {
+					"x": 9.059095,
+					"y": 50.57224,
+					"z": 177.0401
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -7.99106646,
+					"y": -41.1904068,
+					"z": -3.587524
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"rotation": {
+					"x": 9.605964,
+					"y": 80.3247452,
+					"z": 183.654846
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -8.703354,
+					"y": -41.0036774,
+					"z": -4.611529
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
+				"rotation": {
+					"x": 352.213776,
+					"y": 301.739227,
+					"z": 177.477631
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -12.0844469,
+					"y": -40.51596,
+					"z": 2.42741656
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 275.157074,
+					"y": 82.6999054,
+					"z": 13.1345043
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -3.45845485,
+					"y": -47.9336243,
+					"z": 6.81652
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_NorthFragment/Interactables_NorthFragment/VisibleFrom_EscapePodCrashSite/Prefab_NOM_Lamp_EscapePodFlare",
+				"rotation": {
+					"x": 2.38358355,
+					"y": 353.8502,
+					"z": 171.584061
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -6.40458059,
+					"y": -41.476284,
+					"z": -2.200764
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 277.520233,
+					"y": 22.2793217,
+					"z": 63.3959923
+				},
+				"position": {
+					"x": -3.58425,
+					"y": -54.82747,
+					"z": 7.41189241
+				}
+			}
+		],
+		"signals": [
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			},
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			},
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			},
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			},
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {},
+	"Water": {
+		"size": 55.0,
+		"density": 50.0,
+		"buoyancy": 3.0,
+		"tint": {
+			"r": 255,
+			"g": 128,
+			"b": 128,
+			"a": 0
+		},
+		"curve": [
+			{
+				"time": 1.0,
+				"value": 0.75
+			},
+			{
+				"time": 10.0,
+				"value": 1.0
+			},
+			{
+				"time": 20.0,
+				"value": 0.75
+			},
+			{
+				"time": 22.0,
+				"value": 0.80
+			}
+		]
+	},
+	"ParticleFields": [
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		}
+	],
+	"Signal": {
+		"signals": [
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			}
+		]
+	}
+}

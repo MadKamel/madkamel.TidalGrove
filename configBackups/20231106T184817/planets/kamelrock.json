@@ -1,0 +1,116 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Kamel's Sponge",
+	"Atmosphere": {
+		"fogDensity": 0.05,
+		"fogSize": 100.0,
+		"fogTint": {
+			"r": 255,
+			"a": 255,
+		},
+		"hasOxygen": true,
+		"hasRain": true,
+		"size": 80.0
+	},
+	"Base": {
+		"gravityFallOff": "linear",
+		"groundSize": 40.0,
+		"hasMapMarker": true,
+		"surfaceGravity": 8,
+		"surfaceSize": 50.0
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/sponge_heightmap2.png",
+		"maxHeight": 50.0,
+		"minHeight": 42.0,
+		"textureMap": "planets/assets/sponge_texmap.png"
+	},
+	"Orbit": {
+		"primaryBody": "SUN",
+		"semiMajorAxis": 9800.0,
+		"inclination": 8,
+		"eccentricity": 0.01,
+		"isMoon": false,
+		"siderealPeriod": 78.0,
+		"isTidallyLocked": false,
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0,
+		"longitudeOfAscendingNode": 20.0,
+		"argumentOfPeriapsis": 50.0
+	},
+	"Props": {
+		"details": [
+		],
+		"signals": [
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 80.0
+			},
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {},
+	"Water": {
+		"size": 55.0,
+		"density": 50.0,
+		"buoyancy": 3,
+		"tint": {
+			"r": 255,
+			"g": 128,
+			"b": 128,
+			"a": 0
+		},
+		"curve": [
+			{
+				"time": 1.0,
+				"value": 0.75
+			},
+			{
+				"time": 18.0,
+				"value": 1.1
+			}
+		]
+	},
+	"ParticleFields": [
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		},
+		{
+			"followTarget": "player",
+			"rename": "RainEmitter"
+		}
+	],
+	"Signal": {
+		"signals": [
+			{
+				"audioFilePath": "planets/Assets/sponge_signal.mp3",
+				"frequency": "Default",
+				"identificationRadius": 80.0,
+				"name": "Kamel's Sponge",
+				"sourceRadius": 75.0,
+				"audio": "planets/Assets/sponge_signal.mp3",
+				"maxDistance": 30.0
+			}
+		]
+	}
+}

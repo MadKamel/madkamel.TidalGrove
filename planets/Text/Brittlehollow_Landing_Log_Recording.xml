@@ -1,0 +1,46 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<Text>OENO: We've finally landed on <![CDATA[<color=orange>Tidal Grove</color>]]>. We don't have long until the water floods again, and our shuttle might tip if we let the water overtake it. We must hurry and scout the surface. Coleus will keep an eye out for rising water.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<Text>CYCAD: Look! These appear to be creatures on the ground! They look like fish.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<Text>AVENS: This shuttle could have crushed one. We must exercise extreme caution when attempting the next landing.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<Text>OENO: The presense of these fish means that this planet is already inhabited. This planet seems to have breathable air and the ground is made of a red, porous stone. Something inside the planet must be releasing water through the pores on the planet's surface.</Text>
+	</TextBlock>
+    <TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<Text>AVENS: Of note, the trees here appear strikingly similar to those discovered on <![CDATA[<color=orange>Timber Hearth</color>]]>. Suppose they are related in some way?</Text>
+	</TextBlock>
+    <TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<Text>CYCAD: It gets more interesting, friends: look closely at these fish, and you will find that they have two extra eyes! The fish we found on <![CDATA[<color=orange>Timber Hearth</color>]]> had only one extra eye, so perhaps they are distantly related?</Text>
+	</TextBlock>
+    <TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<Text>ONEO: I wonder why they would need all five eyes?</Text>
+	</TextBlock>
+    <TextBlock>
+		<ID>8</ID>
+		<ParentID>7</ParentID>
+		<Text>COLEUS: The water is rising! Past that ridge is a large pool that is growing by the second. Are we ready to leave soon?</Text>
+	</TextBlock>
+    <TextBlock>
+		<ID>9</ID>
+		<ParentID>8</ParentID>
+		<Text>ONEO: Thanks Coleus, I don't think we can discover a lot more in this area with the time we have left. We'll have to return and build a landing platform to protect the shuttle from the tides.</Text>
+	</TextBlock>
+</NomaiObject>
