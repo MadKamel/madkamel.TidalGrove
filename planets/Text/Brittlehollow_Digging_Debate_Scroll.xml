@@ -11,7 +11,7 @@
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>CLARY: The fish tend to stay near the <![CDATA[<color=orange>North Pole</color>]]>. If we dug at the <![CDATA[<color=orange>South Pole</color>]]>, it would likely not impact them at all. We already use the <![CDATA[<color=orange>South Pole</color>]]> as a staging area for visitors.</Text>
+		<Text>CLARY: The fish tend to stay near the <![CDATA[<color=orange>South Pole</color>]]>. If we dug at the <![CDATA[<color=orange>North Pole</color>]]>, it would likely not impact them at all. We already use the <![CDATA[<color=orange>North Pole</color>]]> as a staging area for visitors.</Text>
 	</TextBlock>
     <TextBlock>
 		<ID>4</ID>
@@ -29,7 +29,7 @@
 		<Text>FILIX: Displacing the stone would likely lower the water's height, altering the environment. The issue most obvious to me is that excavating a hole wide enough for a Nomai is not a great solution.</Text>
 	</TextBlock>
 	<TextBlock>
-		<ID>6</ID>
+		<ID>7</ID>
 		<ParentID>1</ParentID>
 		<Text>CONOY: Wouldn't our time be better suited towards furthering our search for the <![CDATA[<color=orange>Eye of the Universe</color>]]>?</Text>
 	</TextBlock>

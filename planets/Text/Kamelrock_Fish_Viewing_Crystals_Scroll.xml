@@ -16,7 +16,7 @@
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>2</ParentID>
-		<Text>AVENS: Alarmingly, I seem to be drifting somewhat. This must be a result of the buoyancy of the water attempting to drag me up. Stay attentive, friends! If you find yourself drifting away and cannot swim, just hold onto a tree until the water passes!</Text>
+		<Text>AVENS: Alarmingly, I seem to be drifting somewhat. This must be a result of the buoyancy of the water attempting to drag me up. Stay attentive, friends! If you find yourself drifting away and cannot hold onto the ground or swim, just latch onto a tree until the water passes!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>

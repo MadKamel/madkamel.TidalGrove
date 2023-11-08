@@ -7,3 +7,6 @@ Kamel's Sponge gives off a strange signal, but it remains unexplained.
 
 version 0.2
 Kamel's Sponge is now Tidal Grove. The North Pole was the local fish's breeding ground, and they laid eggs in trees. They did not survive the Interloper, as the tide was low at the time of ghost matter being dispersed.
+
+version 0.3
+The role of the North and South poles have been reversed

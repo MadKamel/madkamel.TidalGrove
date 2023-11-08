@@ -4,7 +4,7 @@
   "author": "MadKamel",
   "name": "Tidal Grove",
   "uniqueName": "madkamel.TidalGrove",
-  "version": "0.2.1",
+  "version": "0.3",
   "owmlVersion": "2.5.2",
   "dependencies": [ "xen.NewHorizons" ],
   "pathsToPreserve": [ ".git", ".github", ".gitignore", "README.md", "LICENSE" ]

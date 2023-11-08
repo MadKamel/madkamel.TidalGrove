@@ -41,6 +41,6 @@
     <TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>ONEO: Thanks Coleus, I don't think we can discover a lot more in this area with the time we have left. We'll have to return and build a landing platform to protect the shuttle from the tides.</Text>
+		<Text>ONEO: Thanks Coleus, I don't think we can discover a lot more in this area with the time we have left. We'll have to return to <![CDATA[<color=orange>Brittle Hollow</color>]]> and prepare a landing platform to protect the shuttle from the tides for future expeditions.</Text>
 	</TextBlock>
 </NomaiObject>

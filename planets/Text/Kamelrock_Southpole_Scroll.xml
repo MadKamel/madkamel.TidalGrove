@@ -6,16 +6,16 @@
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>OENO: If you wish to read notes from other Nomai about this planet, we are currently keeping some scrolls in the <![CDATA[<color=orange>Gravity Cannon</color>]]> residence's lowest floor.</Text>
+		<Text>OENO: If you wish to read notes from other Nomai about this planet, we are currently keeping some scrolls in <![CDATA[<color=orange>Brittle Hollow's Gravity Cannon</color>]]> residence's lowest floor.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>1</ParentID>
-		<Text>AVENS: Please note that the <![CDATA[<color=orange>North Pole</color>]]> houses the breeding grounds for the local fish, so try to keep your distance so as to not disturb them.</Text>
+		<Text>AVENS: Please note that the <![CDATA[<color=orange>South Pole</color>]]> houses the breeding grounds for the local fish, so try to keep your distance so as to not disturb them.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>OENO: We have an observation area nearby, however, so feel free to go there. It's near enough to the <![CDATA[<color=orange>North Pole</color>]]> for any interested Nomai to observe the fish without being too disruptive.</Text>
+		<Text>OENO: We have an observation area nearby, however, so feel free to go there. It's near enough to the <![CDATA[<color=orange>South Pole</color>]]> for any interested Nomai to observe the fish without being too disruptive.</Text>
 	</TextBlock>
 </NomaiObject>
