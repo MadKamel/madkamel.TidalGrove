@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
   "filename": "NewHorizonsConfig.dll",
   "author": "MadKamel",
-  "name": "New Horizons Test Mod",
-  "uniqueName": "madkamel.NHTest",
-  "version": "0.0.1",
+  "name": "Tidal Grove",
+  "uniqueName": "madkamel.TidalGrove",
+  "version": "0.2.1",
   "owmlVersion": "2.5.2",
   "dependencies": [ "xen.NewHorizons" ],
   "pathsToPreserve": [ ".git", ".github", ".gitignore", "README.md", "LICENSE" ]
