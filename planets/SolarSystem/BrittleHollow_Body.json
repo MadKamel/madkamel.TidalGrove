@@ -13,57 +13,57 @@
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_Treepot",
 				"rotation": {
-					"x": 39.5692558,
+					"x": 39.56927,
 					"y": 203.977448,
 					"z": 279.2063
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -238.08638,
-					"y": 32.71572,
-					"z": 67.6860657
+					"x": -238.086792,
+					"y": 32.7157,
+					"z": 67.68613
 				}
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_VaseThick",
 				"rotation": {
-					"x": 82.7822342,
-					"y": 299.184479,
-					"z": 11.015871
+					"x": 82.78229,
+					"y": 299.1845,
+					"z": 11.0158834
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -238.345749,
-					"y": 33.2112961,
-					"z": 66.69528
+					"x": -238.345886,
+					"y": 33.2113037,
+					"z": 66.69571
 				}
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
 				"rotation": {
-					"x": 43.27336,
-					"y": 204.8014,
+					"x": 43.27337,
+					"y": 204.801392,
 					"z": 279.7517
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -238.3496,
-					"y": 32.58181,
-					"z": 66.93359
+					"x": -238.349426,
+					"y": 32.5817871,
+					"z": 66.93323
 				}
 			},
 			{
 				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_SouthPole/Lighting_SouthPole/Prefab_NOM_Torch",
 				"rotation": {
-					"x": 34.724968,
+					"x": 34.72499,
 					"y": 203.023514,
 					"z": 278.6297
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -238.400482,
-					"y": 31.9037247,
-					"z": 67.05054
+					"x": -238.400131,
+					"y": 31.9036865,
+					"z": 67.05051
 				}
 			},
 			{
@@ -71,13 +71,13 @@
 				"rotation": {
 					"x": 358.482727,
 					"y": 18.2715664,
-					"z": 82.91309
+					"z": 82.9131
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -239.867264,
-					"y": 30.35569,
-					"z": 63.1724854
+					"x": -239.867142,
+					"y": 30.3557129,
+					"z": 63.17221
 				}
 			},
 			{
@@ -89,36 +89,37 @@
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -239.3245,
-					"y": 26.9115829,
-					"z": 66.2143555
+					"x": -239.324738,
+					"y": 26.9116211,
+					"z": 66.21402
 				}
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_SimpleChair_NoSkeleton (1)",
 				"rotation": {
 					"x": 351.935577,
-					"y": 19.0920219,
-					"z": 82.8445358
+					"y": 19.0920143,
+					"z": 82.84454
 				},
 				"alignRadial": false,
 				"position": {
-					"x": -238.603348,
-					"y": 32.731102,
-					"z": 66.09653
+					"x": -238.603485,
+					"y": 32.73108,
+					"z": 66.0963745
 				}
 			},
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_District1/Props_HangingCity_District1/OtherComponentsGroup/Props_HangingCity_Building_10/Prefab_NOM_VaseThin",
 				"rotation": {
 					"x": 349.128571,
-					"y": 19.4506416,
-					"z": 82.78547
+					"y": 19.45065,
+					"z": 82.78546
 				},
+				"alignRadial": false,
 				"position": {
-					"x": -240.0403,
-					"y": 26.6463356,
-					"z": 64.12802
+					"x": -240.0405,
+					"y": 26.6463623,
+					"z": 64.12814
 				}
 			}
 		],
@@ -149,10 +150,19 @@
 				],
 				"seed": 12,
 				"type": "scroll",
+				"location": "unspecified",
 				"xmlFile": "planets/Text/Brittlehollow_Digging_Debate_Scroll.xml",
-				"position": {"x": -239.9418, "y": 27.22256, "z": 65.9707},
-				"rotation": {"x": 332.8497, "y": 194.4287, "z": 277.9669},
-				"alignRadial": true
+				"rotation": {
+					"x": 332.8497,
+					"y": 194.4287,
+					"z": 277.9669
+				},
+				"alignRadial": true,
+				"position": {
+					"x": -239.9418,
+					"y": 27.22256,
+					"z": 65.9707
+				}
 			},
 			{
 				"type": "recorder",
