@@ -1,7 +1,7 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
     <TextBlock>
         <ID>1</ID>
-        <Text>OENO: These fish seem to lay their eggs within the bark of these trees. The trees at the <![CDATA[<color=orange>North Pole</color>]]> are their favored spot for laying eggs, it seems.</Text>
+        <Text>OENO: These fish seem to lay their eggs within the bark of these trees. The trees at the <![CDATA[<color=orange>South Pole</color>]]> are their favored spot for laying eggs, it seems.</Text>
     </TextBlock>
     <TextBlock>
         <ID>2</ID>

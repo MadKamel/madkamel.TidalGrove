@@ -2206,17 +2206,9 @@
 				"type": "scroll",
 				"location": "unspecified",
 				"xmlFile": "planets/Text/Kamelrock_Observing_Fish_Northpole_Scroll.xml",
-				"rotation": {
-					"x": 10.3087,
-					"y": 350.8807,
-					"z": 343.5352
-				},
 				"alignRadial": true,
-				"position": {
-					"x": 36.56,
-					"y": 19.94269,
-					"z": 21.0808
-				}
+				"position": {"x": 25.95307, "y": -42.24187, "z": 3.994273},
+                "rotation": {"x": 341.0914, "y": 66.17284, "z": 189.7723}
 			}
 		]
 	},
