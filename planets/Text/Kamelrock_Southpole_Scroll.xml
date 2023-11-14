@@ -4,6 +4,9 @@
 		<Text>OENO: Welcome to <![CDATA[<color=orange>Tidal Grove</color>]]>! If you are visiting here for the first time, be aware of the tide: it rises and falls on a regular cycle, but still manages to catch me off guard!</Text>
 	</TextBlock>
 	<TextBlock>
+    	<RevealFacts>
+    	    <FactID>KAMELROCK_MENTION_BH_GRAVITY_CANNON</FactID>
+    	</RevealFacts>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
 		<Text>OENO: If you wish to read notes from other Nomai about this planet, we are currently keeping some scrolls in <![CDATA[<color=orange>Brittle Hollow's Gravity Cannon</color>]]> residence's lowest floor.</Text>

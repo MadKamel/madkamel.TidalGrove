@@ -1,12 +1,43 @@
-<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
-	<ID>KAMELROCK</ID>
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">	<ID>KAMELROCK</ID>
 	<Entry>
 		<ID>KAMELROCK_ENTRY</ID>
-		<Name>Kamel's Sponge</Name>
+		<Name>Tidal Grove</Name>
 		<ExploreFact>
 			<ID>KAMELROCK_LANDING</ID>
 			<Text>This planet seems to be a kind of giant sponge with trees. The water levels are in a constant cycle of rising and falling.</Text>
-			<Text></Text>
+		</ExploreFact>
+		<RumorFact>
+			<ID>KAMELROCK_MENTION_BH_GRAVITY_CANNON</ID>
+			<Curiosity>BH_GRAVITY_CANNON</Curiosity>
+			<Text>The Nomai kept records of Tidal Grove in an obscure location in the bottom floor of a building somewhere near the Gravity Cannon on Brittle Hollow.</Text>
+		</RumorFact>
+		<Entry>
+			<ID>KAMELROCK_NORTHPOLE</ID>
+			<Name>Tidal Grove's South Pole</Name>
+			<ExploreFact>
+				<ID>KAMELROCK_NORTHPOLE_FACTS</ID>
+				<Text>The South Pole of this planet was apparently the breeding grounds for a local species of fish.</Text>
+			</ExploreFact>
+		</Entry>
+		<Entry>
+			<ID>KAMELROCK_SOUTHPOLE</ID>
+			<Name>Tidal Grove's North Pole</Name>
+			<ExploreFact>
+				<ID>KAMELROCK_SOUTHPOLE_FACTS</ID>
+				<Text>The North Pole of this planet has a Nomai scroll wall, and gravity crystals. A trail of gravity crystals leads up a tree.</Text>
+			</ExploreFact>
+		</Entry>
+	</Entry>
+	<Entry>
+		<ID>KAMELROCK_FISH</ID>
+		<Name>Tidal Grove Fish</Name>
+		<ExploreFact>
+			<ID>KAMELROCK_FISH_PRESENCE</ID>
+			<Text>This planet once harbored a species of fish, according to the Nomai.</Text>
+		</ExploreFact>
+		<ExploreFact>
+			<ID>KAMELROCK_FISH_EYES</ID>
+			<Text>The local fish evidently had five eyes, one more than everybody from Timber Hearth.</Text>
 		</ExploreFact>
 	</Entry>
 </AstroObjectEntry>
