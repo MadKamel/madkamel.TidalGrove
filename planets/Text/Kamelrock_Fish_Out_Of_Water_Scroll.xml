@@ -1,17 +1,17 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>POKE: What interesting creatures these are! Mere minutes ago when this planet was flooded, these fish were swimming and playing with such vigor, but once the water fell they seem to have begun breathing air and every single one has stopped moving.</Text>
+		<Text>POKE: What fascinating creatures these are! Mere minutes ago when this planet was submerged, these fish were swimming and playing with such energy, but since the water receded they appear to have transitioned to breathing air, and every single one has ceased its motion.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>OENO: I imagine that this is how they sleep. Melorae has told me stories of creatures she had seen, and many of them sleep in specific conditions, such as darkness. Perhaps dryness triggers sleep in these fish?</Text>
+		<Text>OENO: Hypothesis: Sleep in these fish may be triggered by dryness. I theorize that this is their way of sleeping. Melorae shared with me accounts of creatures she encountered in other systems, and a substantial portion of them rest under specific conditions such as darkness. There's no reason why dryness couldn't have a similar effect, in my opinion.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>1</ParentID>
-		<Text>CLARY: How can you tell that they are breathing air? Suppose they are holding onto oxygen within, somehow?</Text>
+		<Text>CLARY: How can you tell that they are breathing? Suppose they are retaining oxygen internally somehow?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
@@ -21,12 +21,12 @@
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>2</ParentID>
-		<Text>CLARY: Perhaps we as a species were not so different, once? I find that heat makes me feel more alert than the cold. Perhaps our ancestors slept in the night as the air cooled, and woke as the day's warmth arrived?</Text>
+		<Text>CLARY: Maybe our own species was not too dissimilar in the past? Personally, I notice that warmth tends to keep me more alert than the cold. It's plausible that our forebears rested during the night when the air cooled and awakened as the warmth of the day emerged.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text>OENO: I would very much like to know about our species' past, but if we wanted to meet and ask another clan what they knew, we would first have to repair our mortally wounded vessel.</Text>
+		<Text>OENO: I'm keen on learning about our species' history, but if we aim to meet and inquire with another clan about their knowledge, our priority should be to repair our mortally wounded vessel.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>

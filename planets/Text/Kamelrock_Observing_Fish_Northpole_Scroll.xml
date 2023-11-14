@@ -1,0 +1,36 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+    <TextBlock>
+        <ID>1</ID>
+        <Text>OENO: These fish seem to lay their eggs within the bark of these trees. The trees at the <![CDATA[<color=orange>North Pole</color>]]> are their favored spot for laying eggs, it seems.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>2</ID>
+        <ParentID>1</ParentID>
+        <Text>CLARY: The placement of the gravity crystals is very convenient for viewing these fish and their interesting ways.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>3</ID>
+        <ParentID>2</ParentID>
+        <Text>AVENS: Clary,  all these fish exhibit an unusual five eyes each. This trait is worth documenting along with their egg-laying habits.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>4</ID>
+        <ParentID>3</ParentID>
+        <Text>OENO: In addition, I'll be counting the eggs and studying how they adapt to tidal changes.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>5</ID>
+        <ParentID>3</ParentID>
+        <Text>CLARY: The extra eyes caught our attention when we first arrived. Oeno documented the event, storing a recording in an archive room at <![CDATA[<color=orange>Brittle Hollow's Gravity Cannon</color>]]>.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>6</ID>
+        <ParentID>1</ParentID>
+        <Text>AVENS: I cannot stay any longer. I must return to <![CDATA[<color=orange>Giant's Deep</color>]]> shortly to resume construction of the <![CDATA[<color=orange>Orbital Probe Cannon</color>]]>, but I thank you for inviting me to observe these creatures!</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>7</ID>
+        <ParentID>6</ParentID>
+        <Text>OENO: I am glad that you could join us, your presence added to our observations! I will continue my observations over the next few tidal cycles.</Text>
+    </TextBlock>
+</NomaiObject>

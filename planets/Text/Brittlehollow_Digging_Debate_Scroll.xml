@@ -6,22 +6,22 @@
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>OENO: The fish would not like us disturbing their home. This is an absurd question.</Text>
+		<Text>OENO: This is an absurd question; surely the fish would dislike us disturbing their home.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>CLARY: The fish tend to stay near the <![CDATA[<color=orange>South Pole</color>]]>. If we dug at the <![CDATA[<color=orange>North Pole</color>]]>, it would likely not impact them at all. We already use the <![CDATA[<color=orange>North Pole</color>]]> as a staging area for visitors.</Text>
+		<Text>CLARY: The local wildlife tends to live near the <![CDATA[<color=orange>South Pole</color>]]>. If we dug at the <![CDATA[<color=orange>North Pole</color>]]>, it would likely not impact them at all. We already use the <![CDATA[<color=orange>North Pole</color>]]> as a staging area for visitors, so boring a hole there may be possible without major environmental impact..</Text>
 	</TextBlock>
     <TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>OENO: It would certainly impact them if we inadvertently destroyed or damaged whatever produces their water supply while excavating!</Text>
+		<Text>OENO: It would certainly impact them if we inadvertently destroyed or damaged the source of their water supply while excavating. I think the risk is clearly too great to actually take.</Text>
 	</TextBlock>
     <TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>CLARY: I concede, this is a terrible idea. Perhaps some things are better left untouched.</Text>
+		<Text>CLARY: I concede that this is a terrible idea. Perhaps some things are better left untouched.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>

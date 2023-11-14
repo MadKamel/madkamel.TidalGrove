@@ -11,7 +11,7 @@
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>AVENS: This shuttle could have crushed one. We must exercise extreme caution when attempting the next landing.</Text>
+		<Text>PRIVET: This shuttle could have crushed one. We must exercise extreme caution when attempting the next landing.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
@@ -21,7 +21,7 @@
     <TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>AVENS: Of note, the trees here appear strikingly similar to those discovered on <![CDATA[<color=orange>Timber Hearth</color>]]>. Suppose they are related in some way?</Text>
+		<Text>PRIVET: Of note, the trees here appear strikingly similar to those discovered on <![CDATA[<color=orange>Timber Hearth</color>]]>. Suppose they are related in some way?</Text>
 	</TextBlock>
     <TextBlock>
 		<ID>6</ID>
